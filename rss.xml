@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[hylas]]></title>
         <description><![CDATA[hylas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hylas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 01:33:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 May 2016 01:40:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hylas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cf06782-4a21-4f3b-b3b1-1876d32d5770.png">]]></description>
-            <link>undefinedsolo-mission-in-progress/index.html</link>
+            <title><![CDATA[Solo Mission in Progress...]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5848a791-d114-4d2a-b1f4-220db7f3d998.png">]]></description>
+            <link>https://thegrid.ai/hylas/solo-mission-in-progress/index.html</link>
             <guid isPermaLink="false">47089056-1b26-4d5b-9fa5-20944e444d31</guid>
-            <pubDate>Fri, 13 May 2016 01:33:52 GMT</pubDate>
+            <pubDate>Fri, 13 May 2016 01:40:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
