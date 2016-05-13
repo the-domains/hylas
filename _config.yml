@@ -1,0 +1,14 @@
+layout_spectrum: 0.24881751043722034
+typography_spectrum: 0.10514691029675305
+color:
+  brandStrength: 0.6174763166345656
+  lightness: 0.8716364330612123
+  saturation: 0.6192360308486968
+  rhythmicContrast: 0.9959662740584463
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: hylas
