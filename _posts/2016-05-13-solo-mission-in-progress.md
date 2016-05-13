@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Solo Mission in Progress...
-datePublished: '2016-05-13T01:33:52.315Z'
-dateModified: '2016-05-13T01:33:28.643Z'
+datePublished: '2016-05-13T01:40:57.059Z'
+dateModified: '2016-05-13T01:37:33.103Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-13-solo-mission-in-progress.md
 authors: []
 publisher:
   name: null
@@ -16,14 +17,9 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-13-solo-mission-in-progress.md
 url: solo-mission-in-progress/index.html
 _type: Article
 
 ---
-Solo Mission in Progress...
-
-Jarrod, Shivani, & Edwin 
-
-(photo credit: Shamir Paul "The Great" Hyman)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cf06782-4a21-4f3b-b3b1-1876d32d5770.png)
+**_Solo Mission in Progress..._**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5848a791-d114-4d2a-b1f4-220db7f3d998.png)
